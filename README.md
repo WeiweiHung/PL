@@ -6,7 +6,7 @@
 系級：師大科技114級
 # :books:作業區
 + 隨堂練習
-    + [week1_python01](https://github.com/WeiweiHung/PL/blob/main/PL_Python01.ipynb)
+    + [week2_python01](https://github.com/WeiweiHung/PL/blob/main/PL_Python01.ipynb)
 + 作業
 + 專題
 # :closed_book:課堂筆記
