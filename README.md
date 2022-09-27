@@ -6,7 +6,7 @@
 系級：師大科技114級
 # :books:作業區
 + 作業
-    +  [HW1_寢室查詢器](
+    +  [HW1_寢室查詢器](https://github.com/WeiweiHung/PL/blob/main/HW1.ipynb)
 + 專題
 # :closed_book:課堂筆記
 + 課堂ppt  
