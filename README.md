@@ -16,5 +16,5 @@
     +  [week4](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)
 + 隨堂練習
     + [week2_python01](https://github.com/WeiweiHung/PL/blob/main/PL_Python01.ipynb)
-+ 除厝參考資料
++ 除錯參考資料
     + [How to resolve a UnicodeDecodeError for a CSV file](https://www.kaggle.com/code/paultimothymooney/how-to-resolve-a-unicodedecodeerror-for-a-csv-file)
