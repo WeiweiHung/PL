@@ -20,3 +20,6 @@
     + [week4](https://github.com/WeiweiHung/PL/blob/main/week4_practice.ipynb)
 + 除錯參考資料
     + [How to resolve a UnicodeDecodeError for a CSV file](https://www.kaggle.com/code/paultimothymooney/how-to-resolve-a-unicodedecodeerror-for-a-csv-file)
+    + [Lookup a Dataframe column with list and return list matching the row of another column?](https://stackoverflow.com/questions/71619015/lookup-a-dataframe-column-with-list-and-return-list-matching-the-row-of-another)
++ 補充資料
+    + [使用 JSON 資料](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/JSON)
