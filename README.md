@@ -7,6 +7,7 @@
 # :books:作業區
 + 作業
     +  [HW1_寢室查詢器](https://github.com/WeiweiHung/PL/blob/main/HW1.ipynb)
+    +  [HW2_畢業學分查詢_難產中](https://github.com/WeiweiHung/PL/blob/main/HW2.ipynb)
 + 專題
 # :closed_book:課堂筆記
 + 課堂ppt  
