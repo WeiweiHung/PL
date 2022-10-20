@@ -21,6 +21,7 @@
 + 隨堂練習
     + [week2_python01](https://github.com/WeiweiHung/PL/blob/main/PL_Python01.ipynb)
     + [week4](https://github.com/WeiweiHung/PL/blob/main/week4_practice.ipynb)
+    + [week6_資料正則化](https://github.com/WeiweiHung/PL/blob/main/week6_practice.ipynb)
 + 除錯參考資料
     + [How to resolve a UnicodeDecodeError for a CSV file](https://www.kaggle.com/code/paultimothymooney/how-to-resolve-a-unicodedecodeerror-for-a-csv-file)
     + [Lookup a Dataframe column with list and return list matching the row of another column?](https://stackoverflow.com/questions/71619015/lookup-a-dataframe-column-with-list-and-return-list-matching-the-row-of-another)
