@@ -18,12 +18,15 @@
     +  [week5](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)
     +  [week6](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.p)
     +  [week7](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    +  [https://docs.google.com/presentation/d/e/2PACX-1vR0lsj6suoMW-s48VLVaWeXB2vXwcPmvX2jKpXOCuZuEry3VMyAlapumD20gt1DUPiMIT6krRjZba3P/pub?start=false&loop=false&delayms=3000&slide=id.p
 + 隨堂練習
     + [week2_python01](https://github.com/WeiweiHung/PL/blob/main/PL_Python01.ipynb)
     + [week4](https://github.com/WeiweiHung/PL/blob/main/week4_practice.ipynb)
     + [week6_資料正則化](https://github.com/WeiweiHung/PL/blob/main/week6_practice.ipynb)
-+ 除錯參考資料
++ 參考資料
     + [How to resolve a UnicodeDecodeError for a CSV file](https://www.kaggle.com/code/paultimothymooney/how-to-resolve-a-unicodedecodeerror-for-a-csv-file)
     + [Lookup a Dataframe column with list and return list matching the row of another column?](https://stackoverflow.com/questions/71619015/lookup-a-dataframe-column-with-list-and-return-list-matching-the-row-of-another)
+    + [TT 八卦版爬蟲04 | 留言、換頁、json](https://ithelp.ithome.com.tw/articles/10270992)
 + 補充資料
     + [使用 JSON 資料](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/JSON)
+    
