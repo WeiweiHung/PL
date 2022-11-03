@@ -8,7 +8,7 @@
 + 作業
     +  [HW1_寢室查詢器](https://github.com/WeiweiHung/PL/blob/main/HW1.ipynb)
     +  [HW2_畢業學分查詢_作業完成_功能未完全到我的目標](https://github.com/WeiweiHung/PL/blob/main/HW2.ipynb)
-    +  [HW_3近代傑尼斯翻翻翻(不要問我這什麼名字看程式碼就知道了)](https://github.com/WeiweiHung/PL/blob/main/HW3.ipynb)[json](https://github.com/WeiweiHung/PL/blob/main/Data.json)[csv]
+    +  [HW_3近代傑尼斯翻翻翻(不要問我這什麼名字看程式碼就知道了)](https://github.com/WeiweiHung/PL/blob/main/HW3.ipynb)[(json)](https://github.com/WeiweiHung/PL/blob/main/Data.json)[(csv)](https://github.com/WeiweiHung/PL/blob/main/data.csv)
         
 + 專題
 # :closed_book:課堂筆記
