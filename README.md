@@ -8,20 +8,22 @@
 + 作業
     +  [HW1_寢室查詢器](https://github.com/WeiweiHung/PL/blob/main/HW1.ipynb)
     +  [HW2_畢業學分查詢_作業完成_功能未完全到我的目標](https://github.com/WeiweiHung/PL/blob/main/HW2.ipynb)
-    +  [HW_3近代傑尼斯翻翻翻(不要問我這什麼名字看程式碼就知道了)](https://github.com/WeiweiHung/PL/blob/main/HW3.ipynb)[(json)](https://github.com/WeiweiHung/PL/blob/main/Data.json)[(csv)](https://github.com/WeiweiHung/PL/blob/main/data.csv)
+    +  [HW3_近代傑尼斯翻翻翻(不要問我這什麼名字看程式碼就知道了)](https://github.com/WeiweiHung/PL/blob/main/HW3.ipynb)[(json)](https://github.com/WeiweiHung/PL/blob/main/Data.json)[(csv)](https://github.com/WeiweiHung/PL/blob/main/data.csv)
+    +  [HW4_大眾對元宇宙的理解之分析](https://medium.com/@weiweihnug/%E5%A4%A7%E7%9C%BE%E5%B0%8D%E5%85%83%E5%AE%87%E5%AE%99%E7%9A%84%E7%90%86%E8%A7%A3%E4%B9%8B%E5%88%86%E6%9E%90-dea071d12128)[程式碼](https://github.com/WeiweiHung/PL/blob/main/HW4.ipynb)
         
 + 專題
 # :closed_book:課堂筆記
 + 課堂ppt  
-    +  [week1](https://docs.google.com/presentation/d/e/2PACX-1vS_11f3KIeNeqmInAKfHaDzOTxK_ff05aI3H3hanLX1qI6Z8iHhbOfqEUgl3Gzx3s1pYtjIZcdzECSP/pub?start=false&loop=false&delayms=3000&slide=id.g14b2b9fd77a_1_1272)
-    +  [week2](https://docs.google.com/presentation/d/e/2PACX-1vQa2_6HxpBPDUjViqvd82AqQfnywwWwETU60fLexCe7ADD8A7kHkpGjkmO6kCSYyw-AFrSCfG3THXiA/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week3](https://docs.google.com/presentation/d/e/2PACX-1vSAw9A5Eu_lHKzShkG8CacnBGk4xauhztCRro8AaxmllMd-gGR3iZpgeV2q8Yz4Fm7CRgfW7fmZSnTJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week4](https://docs.google.com/presentation/d/e/2PACX-1vRR3pc8mhMsa4xByYW6vKqtJiJCsAaeLLCvmRVf3RquXZDwY3yk0H9vcF3CGwkVh5ypqe5Yto0-E88d/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week5](https://docs.google.com/presentation/d/e/2PACX-1vRB9etAYcIULZFrawJ1_e1g_0jHvTSZMIBxzCbGMVSwaO92n-lf-T-4Ye9U6M0r25hqugHUI8smMPOZ/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week6](https://docs.google.com/presentation/d/e/2PACX-1vSKqly4jm5pdKscVPAGZvHkc-bfGa3X0P5SYGTIv0HoOTLfV94L7UVWcWnchhdRUTTsEYVqlyQ0wi23/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week7](https://docs.google.com/presentation/d/e/2PACX-1vSIQhAt8wK9K6tgOx9xCsg8cVjZSXgH8Q-whPekB0Zi68fCTwJvmQ_XeJAfrLdohB_jMDn_mblxWCtC/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week8](https://docs.google.com/presentation/d/e/2PACX-1vR0lsj6suoMW-s48VLVaWeXB2vXwcPmvX2jKpXOCuZuEry3VMyAlapumD20gt1DUPiMIT6krRjZba3P/pub?start=false&loop=false&delayms=3000&slide=id.p)
-    +  [week9](https://docs.google.com/presentation/d/e/2PACX-1vS-XoNDMEDtxpfenW3dO9rkpeGKX0TbF2IfBP-Q7g4mbUft--2lynYvZ9MPej10k0xKub2ekj-mD_DY/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    +  [week1](https://moodle3.ntnu.edu.tw/pluginfile.php/906101/mod_resource/content/1/1_16%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80.pdf)
+    +  [week2](https://moodle3.ntnu.edu.tw/pluginfile.php/906102/mod_resource/content/1/2_16%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80.pdf)
+    +  [week3](https://moodle3.ntnu.edu.tw/pluginfile.php/906104/mod_resource/content/1/3_16%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80.pdf)
+    +  [week4](https://moodle3.ntnu.edu.tw/pluginfile.php/906105/mod_resource/content/1/4_16%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80.pdf)
+    +  [week5](https://moodle3.ntnu.edu.tw/pluginfile.php/906105/mod_resource/content/1/4_16%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80.pdf)
+    +  [week6](https://moodle3.ntnu.edu.tw/pluginfile.php/906107/mod_resource/content/1/6_16%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80.pdf)
+    +  [week7](https://moodle3.ntnu.edu.tw/pluginfile.php/906109/mod_resource/content/1/7_16%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80.pdf)
+    +  [week8](https://moodle3.ntnu.edu.tw/pluginfile.php/906110/mod_resource/content/1/8_16%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80.pdf)
+    +  [week9](https://moodle3.ntnu.edu.tw/pluginfile.php/906111/mod_resource/content/1/9_16%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80.pdf)
+    +  [week11](https://moodle3.ntnu.edu.tw/pluginfile.php/906112/mod_resource/content/1/11_16%20%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80.pdf)
 + 隨堂練習
     + [week2_python01](https://github.com/WeiweiHung/PL/blob/main/PL_Python01.ipynb)
     + [week4](https://github.com/WeiweiHung/PL/blob/main/week4_practice.ipynb)
