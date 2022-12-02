@@ -10,7 +10,7 @@
     +  [HW2_畢業學分查詢_作業完成_功能未完全到我的目標](https://github.com/WeiweiHung/PL/blob/main/HW2.ipynb)
     +  [HW3_近代傑尼斯翻翻翻(不要問我這什麼名字看程式碼就知道了)](https://github.com/WeiweiHung/PL/blob/main/HW3.ipynb)[(json)](https://github.com/WeiweiHung/PL/blob/main/Data.json)[(csv)](https://github.com/WeiweiHung/PL/blob/main/data.csv)
     +  [HW4_大眾對元宇宙的理解之分析](https://medium.com/@weiweihnug/%E5%A4%A7%E7%9C%BE%E5%B0%8D%E5%85%83%E5%AE%87%E5%AE%99%E7%9A%84%E7%90%86%E8%A7%A3%E4%B9%8B%E5%88%86%E6%9E%90-dea071d12128)[(程式碼)](https://github.com/WeiweiHung/PL/blob/main/HW4.ipynb)
-    +  [HW5_學員隊員宇宙理解之慣用詞之分析](https://medium.com/@weiweihnug/%E5%A4%A7%E5%AE%B6%E5%B0%8D%E5%85%83%E5%AE%87%E5%AE%99%E7%9A%84%E6%83%B3%E5%83%8F-a8edfcc51ee1)[(程式碼)]
+    +  [HW5_學員隊員宇宙理解之慣用詞之分析](https://medium.com/@weiweihnug/%E5%A4%A7%E5%AE%B6%E5%B0%8D%E5%85%83%E5%AE%87%E5%AE%99%E7%9A%84%E6%83%B3%E5%83%8F-a8edfcc51ee1)[(程式碼)](https://github.com/WeiweiHung/PL/blob/main/HW5.ipynb)
         
 + 專題
 # :closed_book:課堂筆記
